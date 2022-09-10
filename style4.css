@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Shadows+Into+Light&display=swap');
+
+
+body{
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    font-family: 'Caveat', cursive;
+}
+#content1,#content2,#content3{
+    background-color: lightcoral;
+    margin-left:30px ;
+    padding: 20px;
+    text-align: center;
+}
+#over,#enter,#move{
+    background-color: whitesmoke;
+    padding: 30px;
+}
+#num{
+    background-color: darkviolet;
+    padding: 20px;
+    margin-top: 20px;
+}
+#txt-1{
+    font-size: 20px;
+    font-weight: bold;
+}
+#txt-2{
+    font-size: 20px;
+    font-weight: bold;
+}
+#txt-3{
+    font-size: 20px;
+    font-weight: bold;
+}
+#num{
+    font-size: 30px;
+}
